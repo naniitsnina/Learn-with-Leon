@@ -1,0 +1,48 @@
+html {
+    background: rgba(88, 230, 255, 0.64);
+    border: 5px solid rgba(37, 247, 105, 0.83);
+    margin: 30px;
+    padding: 10px
+}
+
+main {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    padding: 10px;
+}
+h1 {
+    font-family: 'PT serif', serif;
+    color: white;
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+    text-align: center;
+    font-weight: bold;
+}
+
+ul .separation {
+    color: rgba(91, 84, 99, 0.83);
+}
+
+ul a {
+    color: rgba(38, 184, 84, 0.705);
+}
+
+li {
+    display: inline;
+}
+
+h2 {
+    font-weight: bold;
+}
+
+p {
+    font-size: 15px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+img {
+    float: right;
+}
