@@ -1,2 +1,2 @@
-<p>Learn with Leon</p>
-<p>Learning how to learn with Coursera</p>
+#Class 04
+Learning how to learn with Coursera
