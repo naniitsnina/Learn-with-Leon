@@ -1,2 +1,2 @@
-# Class 02 materials
+# Class 02 - materials
 HTML practice
