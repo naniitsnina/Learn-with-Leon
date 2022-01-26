@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+}
+header, footer{
+    height: 100px;
+    border: solid 3px black;
+    width: 100%;
+    clear: both;
+}
+
+.top{
+    height: 300px;
+    border: solid 3px black;
+    width: 100%;
+    float: left;
+}
+
+.left{
+    height: 500px;
+    border: solid 3px black;
+    width: 33.3333%;
+    float: left; 
+}
+.right{
+    height: 500px;
+    border: solid 3px black;
+    width: 66.6666%;
+    float: left
+}
